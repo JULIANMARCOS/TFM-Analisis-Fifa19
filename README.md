@@ -6,7 +6,7 @@ Estudio jugadores Fifa19 para aproximación estudio pasajeros en aeropuertos.
 
 En mi TFM utilizaré diferentes algoritmos de regresión de Machine Learning para poder estimar la puntuación total de un jugador del FIFA19 a partir de otras habilidades de cada jugador. Mi objetivo es obtener el algoritmo que me dé el mejor RMSE y MAE.
 
-ALGORITMOS
+ALGORITMOS:
 Una vez me decidí por realizar una regresión dentro del aprendizaje supervisado, realicé los cálculos de los 3 algoritmos vistos en clase para comprobar cuál de todos me ofrecía mejores resultados: 
 1)	Regresión lineal: Permite determinar el grado de dependencia de las series de valores X e Y, prediciendo el valor y estimado que se obtendría para un valor x que no esté en la distribución.,
 2)	 K-vecinos: predice cogiendo los k vecinos más cercanos. Parte de la idea de que una nueva muestra será clasificada en base a la cual pertenezca la mayor cantidad de vecinos más cercanos del conjunto de entrenamiento.
