@@ -22,3 +22,7 @@ Dentro de cada algoritmo, he usado las siguientes métricas para comprobar la ef
 2)	MSE: Error cuadrático medio, es la media de la diferencia entre los puntos reales de datos y la salida predicha, al cuadrado
 3)	RMSE: Raíz del error cuadrático medio, es la raíz de la media de los errores elevados al cuadrado.
 
+CÓMO EJECUTAR LOS DOCUMENTOS: 
+1) Lanzar el fichero de limpieza de datos que generará un nuevo fichero con el que se ejecutarán el resto de ficheros de Python
+2) Ejecutar el fichero de visualización
+3) Lanzar cualquiera de los ficheros de ML_Regresión
